@@ -1,23 +1,19 @@
-# HEROKU-RCLONE-SERVE-INDEX
-Any Remote Cloud Index via HEROKU
-Help me fixing readme.md 
+# RCLONE-SERVE-INDEX
+Any Remote Cloud Index via HEROKU and Railway
 
-## Follow me for latest updates, v1.20 coming soon..
 
-Heroku oneclick / Rapid deploy method available
+Heroku oneclick deploy button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX)
 
-###### Star my Repository & Support me
+Railway oneclick deploy button:
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDanyTPG%2FHEROKU-RCLONE-SERVE-INDEX%2Ftree%2Fmain&envs=CONFIG_FILE_IN_URL%2CCLOUDNAME%2CPORT&PORTDesc=set+the+port+that+railway+gives+you)
 
- Feel free to post Any [Issues](https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX) And share your ideas , Posting issues would help to improve this repo
-
-## How To Deploy ?
+## How to deploy?
 ### Step 1
 * Star my repository
-* Create a [Heroku](https://dashboard.heroku.com/login) Free account
-* Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX) and deploy app
+* Create a [Heroku](https://dashboard.heroku.com/login) or [Railway](https://railway.app) Free account
+* Click on the deployment button and deploy app
 ### Step 2 (setting Config Vars)
 #### CONFIG_FILE_IN_URL
 
