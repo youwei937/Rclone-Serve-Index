@@ -4,7 +4,7 @@ Any Remote Cloud Index via HEROKU and Railway
 
 Heroku oneclick deploy button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DanyTPG/Rclone-Serve-Index/tree/heroku)
 
 Railway oneclick deploy button:
 
