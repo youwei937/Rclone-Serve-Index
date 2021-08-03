@@ -1,6 +1,5 @@
 #!/bin/bash
 rclone version
-rclone listremotes
 #refreshing Rclone
 wget $CONFIG_IN_URL -O '/.config/rclone/rclone.conf'
 rclone version
