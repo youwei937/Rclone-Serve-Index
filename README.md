@@ -8,7 +8,7 @@ Heroku oneclick deploy button:
 
 Railway oneclick deploy button:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDanyTPG%2FHEROKU-RCLONE-SERVE-INDEX%2Ftree%2Fmain&envs=CONFIG_FILE_IN_URL%2CCLOUDNAME%2CPORT&PORTDesc=fill+with+random+port+(like+443)+then+edit+it+later+with+the+port+that+railway+gives+you+on+deployment)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDanyTPG%2FRclone-Serve-Index%2Ftree%2Fmain&envs=CONFIG_FILE_IN_URL%2CCLOUDNAME%2CPORT&PORTDesc=fill+with+random+port+(like+443)+then+edit+it+later+with+the+port+that+railway+gives+you+on+deployment)
 
 ## How to deploy?
 ### Step 1
